@@ -6,8 +6,11 @@
   "unity": "2022.3",
   "unityRelease": "50f1",
   "dependencies": {
-    "com.cysharp.r3": "1.2.9",
     "com.cysharp.unitask": "2.5.10",
+	"jp.hadashikick.vcontainer": "1.16.3",
+	"com.cysharp.messagepipe": "1.8.1",
+	"com.cysharp.messagepipe.vcontainer": "1.8.1",
+	"com.github-glitchenzo.nugetforunity": "4.1.1",
     "com.unity.test-framework": "1.4.5"
   },
   "author": {
