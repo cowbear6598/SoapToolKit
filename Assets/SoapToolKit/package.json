@@ -1,0 +1,21 @@
+{
+  "name": "com.soap.soap-took-kit",
+  "version": "1.0.0",
+  "description": "我會用到的 Package",
+  "displayName": "SoapToolKit",
+  "unity": "2022.3",
+  "unityRelease": "50f1",
+  "dependencies": {
+    "com.cysharp.r3": "1.2.9",
+    "com.cysharp.unitask": "2.5.10",
+    "com.unity.test-framework": "1.4.5"
+  },
+  "author": {
+    "name": "Soap",
+    "email": "cowbear6598@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowbear6598/SoapTools.git"
+  }
+}
